@@ -1,0 +1,5 @@
+yum install git
+yum install maven
+yum install jenkins
+yum install ansible
+yum install docker
